@@ -1,0 +1,22 @@
+{
+  "H1-U1V2-W3X4": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-AAAA-1111": {"type":"perm","usedBy":null},
+  "D3-EEEE-5555": {"type":"time","duration":259200,"usedBy":null},
+  "H2-Z9Y8-X7W6": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-BBBB-2222": {"type":"perm","usedBy":null},
+  "D1-QQQQ-1234": {"type":"time","duration":86400,"usedBy":null},
+  "H3-LMN2-PQR3": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-CCCC-3333": {"type":"perm","usedBy":null},
+  "D7-AAAA-5678": {"type":"time","duration":604800,"usedBy":null},
+  "H4-XYZ1-9876": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-DDDD-4444": {"type":"perm","usedBy":null},
+  "D30-YYYY-0001": {"type":"time","duration":2592000,"usedBy":null},
+  "H5-QWER-5678": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-EEEE-5555": {"type":"perm","usedBy":null},
+  "D3-ZZZZ-2222": {"type":"time","duration":259200,"usedBy":null},
+  "H6-ASDF-1234": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-FFFF-6666": {"type":"perm","usedBy":null},
+  "D1-BBBB-3333": {"type":"time","duration":86400,"usedBy":null},
+  "H7-QAZX-9876": {"type":"time","duration":3600,"usedBy":null},
+  "PERM-GGGG-7777": {"type":"perm","usedBy":null}
+}
